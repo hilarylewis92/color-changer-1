@@ -1,0 +1,6 @@
+{
+  "name": "Color-changer-1",
+  "tagline": "Color Changer Project",
+  "body": "# color-changer-1\r\n\r\n###The application has the following:\r\n\r\n* A default window background color of white\r\n* Two buttons\r\n  * One that sets a random background color that cannot be white\r\n  * One that resets the background color to white\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
