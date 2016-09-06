@@ -5,20 +5,28 @@ body {
   margin-top: 250px;
 }
 
-button {
-  font-family: 'Open Sans', bold 700;
+.btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
   color: #FFFFFF;
-  font-size: 20px;
   background-color: #E5B6D5;
-  border: 5px;
+  border: 8px;
   border-style: solid;
   border-color: #B2479A #CC7FB5;
   height: 80px;
-  width: 130px;
+  width: 230px;
   margin-right: 20px;
 }
 
-button:hover {
+.btn:hover {
   background-color: #B2479A;
   border-color: #CC7FB5 #E5B6D5
+}
+
+@media screen and (max-width: 503px) {
+  .btn-responsive {
+    height: 50px;
+    margin-top: 20px;
+    font-size: 25px;
+  }
 }
