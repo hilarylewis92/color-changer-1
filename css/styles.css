@@ -1,13 +1,12 @@
 body {
   background-color: white;
   text-align: center;
-  height: 500px;
   margin-top: 250px;
 }
 
 .btn {
   font-family: 'Open Sans', sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   color: #FFFFFF;
   background-color: #E5B6D5;
   border: 8px;
@@ -20,7 +19,7 @@ body {
 
 .btn:hover {
   background-color: #B2479A;
-  border-color: #CC7FB5 #E5B6D5
+  border-color: #CC7FB5 #E5B6D5;
 }
 
 @media screen and (max-width: 503px) {
