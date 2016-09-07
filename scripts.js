@@ -10,15 +10,3 @@ $('.btn').on('click', function() {
 $('.btn-responsive').on('click', function() {
   document.body.style.background = 'white';
 });
-
-
-
-// var colorList = new Array("#000000", "#ff0000", "#07adeb", "#ff4265", "#54ff9f", "#845656", "#ecda3a", "#381938");
-//
-// $('.btn').on('click', function() {
-//   document.body.style.background = colorList[Math.floor(Math.random() * colorList.length)];
-// });
-//
-// $('.btn-responsive').on('click', function() {
-//   document.body.style.background = 'white';
-// });
